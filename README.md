@@ -1,5 +1,5 @@
-# App-Zero-Dark-TBC
-Cross-platform app for iOS, Android, PC.
+# Project One-TBC
+Cross-platform app for iOS, Android.
 
 Details TBC
 
